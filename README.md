@@ -24,4 +24,3 @@ The implementation of the reconstruction algorithm of DDPM and DDIM sampling str
 
 
 
-The model trained in this study has been saved at: **logs\_pat\_from\_pretrained/ckpt.pth**. The checkpoint can be loaded directly for the reconstruction experiments.
